@@ -1,0 +1,8 @@
+<application>
+  <component name="CPPToolchains" version="7">
+    <toolchains detectedVersion="5">
+      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="BUNDLED_MINGW" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="nRF Connect" toolSetKind="SYSTEM_WINDOWS_TOOLSET" customCMakePath="D:\Nordic\v1.9.0\toolchain\opt\bin\cmake.exe" customCCompilerPath="D:\Nordic\v1.9.0\toolchain\opt\bin\arm-none-eabi-gcc.exe" customCXXCompilerPath="D:\Nordic\v1.9.0\toolchain\opt\bin\arm-none-eabi-g++.exe" debuggerKind="CUSTOM_GDB" customGDBPath="D:\Nordic\v1.9.0\toolchain\opt\bin\arm-none-eabi-gdb.exe" />
+    </toolchains>
+  </component>
+</application>
