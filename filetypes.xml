@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="accesstransformer.cfg" type="Access Transformers" />
       <mapping pattern="pack.mcmeta" type="JSON" />
       <mapping pattern="mcmod.info" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping pattern="accesstransformer.cfg" type="Access Transformers" />
     </extensionMap>
   </component>
 </application>
