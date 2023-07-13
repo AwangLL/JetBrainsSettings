@@ -4,6 +4,12 @@
       <webServer id="f5eeb012-9bdf-4d49-b8d0-8eaf76bfb266" name="root@127.0.0.1:8022 password">
         <fileTransfer accessType="SFTP" host="127.0.0.1" port="8022" sshConfigId="46b52381-cec7-4586-872f-f3b260652e51" sshConfig="root@127.0.0.1:8022 password" />
       </webServer>
+      <webServer id="be88d477-4bc7-40c6-830c-0cb395e8f125" name="root@127.0.0.1:8022" url="http:///">
+        <fileTransfer accessType="SFTP" host="127.0.0.1" port="8022" sshConfigId="46b52381-cec7-4586-872f-f3b260652e51" sshConfig="root@127.0.0.1:8022 password" />
+      </webServer>
+      <webServer id="be88d477-4bc7-40c6-830c-0cb395e8f125" name="root@127.0.0.1:8022" url="http:///">
+        <fileTransfer accessType="SFTP" host="127.0.0.1" port="8022" sshConfigId="46b52381-cec7-4586-872f-f3b260652e51" sshConfig="root@127.0.0.1:8022 password" />
+      </webServer>
     </option>
   </component>
 </application>
