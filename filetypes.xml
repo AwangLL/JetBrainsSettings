@@ -4,6 +4,7 @@
       <mapping pattern="PAT" type="AUTO_DETECTED" />
       <mapping pattern="pack.mcmeta" type="JSON" />
       <mapping pattern="mcmod.info" type="JSON" />
+      <mapping ext="bitmap" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
